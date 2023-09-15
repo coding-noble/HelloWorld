@@ -2,7 +2,7 @@
 
 This software is a simple hello world program using C# that prints "Hello World" to the Console. The program was created to test my knowledge of C# and is unique from other hello world programs because it changes colors every quarter second until the user presses a key to end the program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Wj9qPzi59tw)
 
 # Development Environment
 

@@ -25,4 +25,3 @@ while (!Console.KeyAvailable)
 }
 
 Console.ResetColor();
-Console.Clear();
