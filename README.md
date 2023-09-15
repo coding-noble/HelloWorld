@@ -1,20 +1,14 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-My software is a simple hello world program that prints "Hello World" to the Console. My program is unique because it changes colors every quarter second until the user presses a key to end the program.
-
-{Describe your purpose for creating this software.}
+This software is a simple hello world program using C# that prints "Hello World" to the Console. The program was created to test my knowledge of C# and is unique from other hello world programs because it changes colors every quarter second until the user presses a key to end the program.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-For this project I used Visual Studios to develop my code. I wrote my Code in C# which is a object oriented programing language.
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+For this project I used Visual Studios to develop my code.
+I wrote my Code in C# which is a object oriented programing language.
+I also used GitHub for managing changes.
 
 # Useful Websites
 
